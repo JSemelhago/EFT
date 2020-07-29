@@ -2,8 +2,8 @@
 //  recordScreen2.swift
 //  App - CS
 //
-//  Created by Hassaan Inayatali on 4/3/18.
-//  Copyright © 2018 Hassaan Inayatali. All rights reserved.
+//  Created by Justin Semelhago & Hassaan Inayatali on 4/3/18.
+//  Copyright © 2018 Justin Semelhago & Hassaan Inayatali. All rights reserved.
 //
 
 import UIKit

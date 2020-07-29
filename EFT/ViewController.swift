@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  App - CS
 //
-//  Created by Hassaan Inayatali on 3/28/18.
-//  Copyright © 2018 Hassaan Inayatali. All rights reserved.
+//  Created by Justin Semelhago & Hassaan Inayatali on 3/28/18.
+//  Copyright © Justin Semelhago & 2018 Hassaan Inayatali. All rights reserved.
 //
 
 import UIKit

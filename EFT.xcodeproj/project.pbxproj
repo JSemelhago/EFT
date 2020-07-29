@@ -216,7 +216,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "Hassaan Inayatali";
+				ORGANIZATIONNAME = "Justin Semelhago, Hassaan Inayatali";
 				TargetAttributes = {
 					9BB72503206C65EC00A315D4 = {
 						CreatedOnToolsVersion = 9.2;
