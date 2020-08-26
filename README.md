@@ -32,6 +32,16 @@ Swift uses Objective-C and therefore requires a MacOS C compiler. `Clang` is the
 * Swift 4 - [programming language](https://developer.apple.com/swift/) 
 * Clang - [C compiler](https://clang.llvm.org/)
 
+### Screenshots
+
+Screenshots of the app can be found in the `Screenshots` directory. The following screenshots show the Opening Screen, the Record Screen, and what a sample notification would look like.
+
+<img src="/Screenshots/OpeningScreen.png" title="Opening Screen" width="375" height="812">
+<img src="/Screenshots/RecordScreen.png" title="Record Screen" width="375" height="812">
+<img src="/Screenshots/SampleNotification.png" title="Sample Notification" width="375" height="812">
+
+
+
 ### People
 
 Built by:
